@@ -1,0 +1,22 @@
+[
+  {
+    "Username": "exno",
+    "Gender": "male",
+    "DateOfBirth": "1985-07-31",
+    "Password": "password",
+    "KnownAs": "Justin",
+    "Created": "2019-03-25",
+    "LastActive": "2019-03-25",
+    "Introduction": "Currently BYUI Student\r\n",
+    "Interests": "",
+    "City": "Rexburg",
+    "Country": "United States",
+    "Photos": [
+      {
+        "url": "",
+        "isMain": true,
+        "description": ""
+      }
+    ]
+  }
+]
